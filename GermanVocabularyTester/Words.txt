@@ -1,0 +1,3 @@
+der Vater:father:0
+die Mutter:mother:0
+die Kirche:church:0

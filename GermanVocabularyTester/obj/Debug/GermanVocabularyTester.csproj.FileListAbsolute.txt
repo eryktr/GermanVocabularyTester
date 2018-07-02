@@ -1,0 +1,7 @@
+C:\Users\erykt\Desktop\C#\ConsoleApps\GermanVocabularyTester\GermanVocabularyTester\bin\Debug\GermanVocabularyTester.exe.config
+C:\Users\erykt\Desktop\C#\ConsoleApps\GermanVocabularyTester\GermanVocabularyTester\bin\Debug\GermanVocabularyTester.exe
+C:\Users\erykt\Desktop\C#\ConsoleApps\GermanVocabularyTester\GermanVocabularyTester\bin\Debug\GermanVocabularyTester.pdb
+C:\Users\erykt\Desktop\C#\ConsoleApps\GermanVocabularyTester\GermanVocabularyTester\obj\Debug\GermanVocabularyTester.csprojAssemblyReference.cache
+C:\Users\erykt\Desktop\C#\ConsoleApps\GermanVocabularyTester\GermanVocabularyTester\obj\Debug\GermanVocabularyTester.csproj.CoreCompileInputs.cache
+C:\Users\erykt\Desktop\C#\ConsoleApps\GermanVocabularyTester\GermanVocabularyTester\obj\Debug\GermanVocabularyTester.exe
+C:\Users\erykt\Desktop\C#\ConsoleApps\GermanVocabularyTester\GermanVocabularyTester\obj\Debug\GermanVocabularyTester.pdb
